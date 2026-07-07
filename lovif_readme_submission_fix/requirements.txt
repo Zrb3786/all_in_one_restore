@@ -1,0 +1,13 @@
+torch>=1.12
+torchvision
+accelerate
+ema-pytorch
+einops
+numpy<2
+Pillow
+opencv-python
+scikit-image
+scipy
+tqdm
+matplotlib
+gdown
